@@ -1,4 +1,4 @@
-NoIP
+ NoIP
 ======
 
 ![Build Status](https://github.com/romeupalos/noip/actions/workflows/docker-image.yml/badge.svg)
